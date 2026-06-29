@@ -21,7 +21,6 @@ La primera versión del sistema contempla los siguientes módulos:
 backend/   → Desarrollo de la API y lógica de negocio.
 frontend/  → Desarrollo de la interfaz de usuario.
 docs/      → Documentación técnica y funcional del proyecto.
-mockups/   → Maquetas y diseños de las pantallas del sistema.
 ```
 
 ## Estado del proyecto
